@@ -1,0 +1,5 @@
+#!/bin/bash
+pwd
+uptime
+uname -a
+ls - ld
